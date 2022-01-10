@@ -1,5 +1,10 @@
 # Sistema de cadastro de clientes
 
+<p align='center'>
+  <img width=600px relf='Screenshot_212.jpg'>
+</p>
+
+
 **O que foi usado:**
 
 - Banco de dados Mysql
