@@ -1,7 +1,7 @@
 # Sistema de cadastro de clientes
 
-<p align='center'>
-  <img width=600px relf='Screenshot_212.jpg'>
+<p align='left'>
+  <img width=600px src='Screenshot_212.jpg'>
 </p>
 
 
